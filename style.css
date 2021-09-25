@@ -1,0 +1,21 @@
+/* bayrak yapımı için yorum satırı */
+
+#flag {width:1000px ;
+     height: 920px; 
+     margin: auto;
+     position: sticky ;
+    background-color: red;
+    box-shadow:20px 20px  rgb(153, 132, 132);
+}
+    
+
+/* horizontal yapısı */
+#hor {width: 700px ; height:300px;
+    position: absolute;
+    margin: 400px 200px;
+    background-color: white;}
+/* vertical yapısı */
+#ver {width: 300px ; height:700px;
+    position: absolute;
+    margin:200px 400px;
+    background-color: white;}
